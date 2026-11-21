@@ -1,0 +1,4 @@
+node_modules/
+npm-debug.log*
+.DS_Store
+运行效果.png
